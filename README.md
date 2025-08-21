@@ -1,6 +1,8 @@
-# NFT-webpage
-A static, responsive NFT landing page built with HTML and CSS. This project focuses on layout design and visual structure without using JavaScript.
-link : https://nft-page-landing.netlify.app/
+# vicepont-webpage
+Showcasing vintage PS2 classics with retro vibes and witty nostalgia.
+A playful trip back to the golden era of gaming.”
+link : 
 
 
-screenshot :<img width="918" height="865" alt="Screenshot 2025-07-14 002954" src="https://github.com/user-attachments/assets/d48652f9-e57f-42d1-a393-2d6cb989f98a" />
+screenshot :<img width="422" height="874" alt="Screenshot 2025-08-21 135249" src="https://github.com/user-attachments/assets/37cdc8c0-ea47-4124-8f73-476aeca2ff08" />
+
