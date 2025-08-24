@@ -1,4 +1,4 @@
-# vicepont-webpage
+# vicepoint-webpage
 A responsive vintage PS2 showcase, optimized for both PC and mobile.
 Relive retro console vibes with witty nostalgia on any device.
 
